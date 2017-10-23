@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="waiting">Waiting for Wifi connection.</string>
+    <string name="wifi_off">Wi-Fi is off. Do you want to turn on Wi-Fi?</string>
+    <string name="no_network">No network available.</string>
+    <string name="no_internet">There is no internet connection.\nApp will close.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="waiting_internet">Checking for internet connection.</string>
+    <string name="no_wifi">Can\'t connect to wifi.\nUse phone network?</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+</resources>
